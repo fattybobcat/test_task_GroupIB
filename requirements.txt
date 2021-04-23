@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+flake8
+isort
+homoglyphs==2.0.4
+requests
